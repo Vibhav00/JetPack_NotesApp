@@ -32,7 +32,7 @@ There are mainly two different screens for the app . the first screen is for the
 
 ---
 
-## About
+## About 💡🎯
 
 Introducing a sleek notes app built with clean architecture, MVVM design pattern, and Jetpack Compose, 
 powered by Dagger Hilt for dependency injection. Enjoy a visually pleasing UI and seamless user experience.
@@ -41,14 +41,14 @@ Elevate your productivity with this sophisticated and user-friendly notes app
 
 ---
 
-## video
+## video 📺💻
 
 https://github.com/Vibhav00/JetPack_NotesApp/assets/101458238/d5148a72-61bb-430e-96ec-e30598173641
 
 ---
 
-## Clean Architecture
-
+## Clean Architecture 🧼🧹
+ 
 Clean architecture is a software design approach that emphasizes separation of concerns and the dependency rule,
 with the goal of creating maintainable and scalable codebases. 
 It divides an application into layers, typically including <i>presentation, domain, and data layers </i>, 
@@ -58,7 +58,7 @@ maintainability by enforcing clear boundaries between components and minimizing 
 
 ---
 
-## Separation of Concern
+## Separation of Concern 🧐🤭👩
 
 <table style="width:50%">
   <tr>
@@ -90,7 +90,7 @@ maintainability by enforcing clear boundaries between components and minimizing 
 
 ---
 
-## working
+## working 💪⚒
 
 - All the screens are designed completely with jetpack compose
 - For injecting the dependencies I am using dagger hilt
@@ -102,7 +102,7 @@ maintainability by enforcing clear boundaries between components and minimizing 
 
 ---
 
-## Technologies Used
+## Technologies Used 👩‍💻⚙👨‍💻
 
 - ### [Dagger Hilt ]
   - Dagger Hilt is a dependency injection library for Android development, built on top of Dagger
