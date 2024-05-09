@@ -131,12 +131,6 @@ maintainability by enforcing clear boundaries between components and minimizing 
 
 
 
-## License
-
-```
-
-```
-
 [mvvm]: https://www.geeksforgeeks.org/mvvm-model-view-viewmodel-architecture-pattern-in-android/
 [Clean Architecture]: https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165#:~:text=The%20Clean%20Architecture%20is%20the,over%20the%20years.
 [Dagger Hilt ]: https://developer.android.com/training/dependency-injection/hilt-android
