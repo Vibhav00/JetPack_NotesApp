@@ -40,7 +40,7 @@ Introducing a sleek notes app built with clean architecture, MVVM design pattern
 
 ## video
 
-<video src='./assets/vdo.mp4' width="200px"/> 
+https://github.com/Vibhav00/JetPack_NotesApp/assets/101458238/d5148a72-61bb-430e-96ec-e30598173641
 
 ---
 
