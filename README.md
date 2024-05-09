@@ -1,4 +1,4 @@
-# COMPOSE NOTES APP : A Notes App bulid with jetpack Compose 😍 🔥 🎉
+# COMPOSE NOTES APP : A Notes App build with jetpack Compose 😍 🔥 🎉
 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
@@ -34,7 +34,10 @@ There are mainly two different screens for the app . the first screen is for the
 
 ## About
 
-Introducing a sleek notes app built with clean architecture, MVVM design pattern, and Jetpack Compose, powered by Dagger Hilt for dependency injection. Enjoy a visually pleasing UI and seamless user experience. Organize your notes effortlessly with intuitive design and robust design patterns. Elevate your productivity with this sophisticated and user-friendly notes app
+Introducing a sleek notes app built with clean architecture, MVVM design pattern, and Jetpack Compose, 
+powered by Dagger Hilt for dependency injection. Enjoy a visually pleasing UI and seamless user experience.
+Organize your notes effortlessly with intuitive design and robust design patterns.
+Elevate your productivity with this sophisticated and user-friendly notes app
 
 ---
 
@@ -46,7 +49,12 @@ https://github.com/Vibhav00/JetPack_NotesApp/assets/101458238/d5148a72-61bb-430e
 
 ## Clean Architecture
 
-Introducing a sleek notes app built with clean architecture, MVVM design pattern, and Jetpack Compose, powered by Dagger Hilt for dependency injection. Enjoy a visually pleasing UI and seamless user experience. Organize your notes effortlessly with intuitive design and robust design patterns. Elevate your productivity with this sophisticated and user-friendly notes app
+Clean architecture is a software design approach that emphasizes separation of concerns and the dependency rule,
+with the goal of creating maintainable and scalable codebases. 
+It divides an application into layers, typically including <i>presentation, domain, and data layers </i>, 
+each with specific responsibilities and dependencies.
+Clean architecture promotes testability, flexibility, and 
+maintainability by enforcing clear boundaries between components and minimizing coupling between them.
 
 ---
 
@@ -59,24 +67,24 @@ Introducing a sleek notes app built with clean architecture, MVVM design pattern
     <th><p p align="center"> Domain  </p></th> 
   </tr>
   <tr>
-    <td><p p align="center"> user interface  </p></td>
-    <td><p p align="center"> api access  </p></td>
-     <td><p p align="center"> Connecting layer  </p></td> 
+    <td><p p align="center"> User Interface  </p></td>
+    <td><p p align="center"> Api Access  </p></td>
+     <td><p p align="center"> Connecting Layer  </p></td> 
   </tr>
   <tr>
-    <td><p p align="center"> viem model  </p></td>
-    <td><p p align="center"> database access </p></td>
-     <td><p p align="center"> Business Logic(fliter,sort,etc)  </p></td> 
+    <td><p p align="center"> View Model  </p></td>
+    <td><p p align="center"> Database Access </p></td>
+     <td><p p align="center"> Business Logic(filter,sort,etc)  </p></td> 
   </tr>
   <tr>
-    <td><p p align="center"> components  </p></td>
-    <td><p p align="center"> database access </p></td>
-     <td><p p align="center"> Connecting layer  </p></td> 
+    <td><p p align="center"> Components  </p></td>
+    <td><p p align="center"> Database Access </p></td>
+     <td><p p align="center"> Connecting Layer  </p></td> 
   </tr>
   <tr>
     <td><p p align="center">   </p></td>
-    <td><p p align="center"> shared preferences </p></td>
-     <td><p p align="center"> model classes , defination to repository  </p></td> 
+    <td><p p align="center"> Shared Preferences </p></td>
+     <td><p p align="center"> Model classes , definition to repository  </p></td> 
   </tr>
 </table>
 
